@@ -38,18 +38,18 @@ También puede ser necesario realizar mantenimientos en el futuro cada vez que s
 
 ## Fotografías del dispositivo
 <div style="text-align: center;">
-    <img src="imagenes/controlwalle.jpg" alt="Control del prototipo" width="450" height="300" >
+    <img src="Imagenes/controlwalle.jpg" alt="Control del prototipo" width="450" height="300" >
 </div>
 
 <div style="text-align: center;">
-    <img src="imagenes/walle.jpg" alt="Control del prototipo" >
+    <img src="Imagenes/walle.jpg" alt="Control del prototipo" >
 </div>
 
 <div style="text-align: center;">
-    <img src="imagenes/walle1.jpg" alt="Control del prototipo"  >
+    <img src="Imagenes/walle1.jpg" alt="Control del prototipo"  >
 </div>
 
 <div style="text-align: center;">
-    <img src="imagenes/walle2.jpg" alt="Control del prototipo">
+    <img src="Imagenes/walle2.jpg" alt="Control del prototipo">
 </div>
 
